@@ -1,2 +1,2 @@
-https://ai.studio/apps/08515e27-e512-475a-a6bc-d8a75de9a0b0
+https://ais-pre-hzeipnlbvp4zdf7fug4vib-62077408917.asia-southeast1.run.app/
 YOU CAN PREVIEW THE GAME FROM THE FOLLOWING LINK
