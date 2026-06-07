@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game",
+  "description": "A visually polished classic Snake Game with high score tracking, customizable speed, and fluid responsive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
